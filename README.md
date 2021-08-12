@@ -85,3 +85,9 @@ select earth_distance(
 * UserType
 
 
+
+
+
+**Repositório original** https://github.com/chinnonsantos/sql-paises-estados-cidades 
+
+
