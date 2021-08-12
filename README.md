@@ -86,6 +86,9 @@ select earth_distance(
 * UserType
 
 
+**Instrutor André Gomes**
+
+
 
 
 
